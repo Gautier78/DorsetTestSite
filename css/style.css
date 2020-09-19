@@ -1,0 +1,91 @@
+.corps {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #131E30;
+  }
+
+/*______________________Index__________________*/
+.moiIndex{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    margin-top:200px;
+    margin-left: 300px;
+    box-shadow: 25px 25px 0px rgb(241, 243, 114);
+  }
+  
+  .firstNameIndex {
+    color: rgb(255, 241, 112);
+    margin-left: 1100px;
+    margin-top: -450px;
+  }
+  .lastNameIndex {
+    color: rgb(255, 241, 112);
+    margin-left: 1100px;
+  }
+
+  .answerIndex{
+      font-size: 100px;
+    color: white;
+    margin-left: 1155px;
+    
+  }
+
+/*______________________Index__________________*/
+
+/*______________________ABOUT__________________*/
+  
+   .whoAbout{
+    font-size: 80px;
+    color: rgb(255, 241, 112);
+    margin-top: 70px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+    
+  }
+
+  .hobbiesAbout{
+    font-size: 80px;
+    color: rgb(255, 241, 112);
+    margin-left: 700px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+  }
+
+  .answerAbout{
+    font-size: 33px;
+    color: white;
+    margin-left: 595px;
+    margin-top: -40px;
+
+  }
+/*_______________________ABOUT___________________*/
+
+/*______________________CONTACT__________________*/
+  
+
+  .addContact{
+    font-size: 80px;
+    color: rgb(255, 241, 112);
+    margin-left: 600px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+  }
+
+  .answerContact{
+    font-size: 33px;
+    color: white;
+    margin-left: 795px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+
+  }
+
+  .snapcodeContact{
+        width: auto;
+        height: auto;
+        border-radius: 50px;
+        margin-left: 700px;
+        box-shadow: 25px 25px 0px rgb(241, 243, 114);
+  }
+
+/*______________________CONTACT__________________*/
